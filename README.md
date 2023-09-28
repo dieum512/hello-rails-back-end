@@ -70,7 +70,7 @@ PostgreSQL
 
 ### Setup
 
-$ git clone https://github.com/dieum512/hello-rails-back-end
+$ git clone git@github.com:dieum512/hello-react-back-end.git
 
 $ cd hello-rails-back-end
 
