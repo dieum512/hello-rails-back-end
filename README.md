@@ -60,6 +60,8 @@
 
 To get a local copy up and running, follow these steps.
 
+Link to the front end repi [front end repo](https://github.com/dieum512/hello-react-front-end).
+
 ### Prerequisites
 
 Ruby
@@ -70,7 +72,7 @@ PostgreSQL
 
 $ git clone https://github.com/dieum512/hello-rails-back-end
 
-$ cd Blogg-app-2
+$ cd hello-rails-back-end
 
 ### Setup
 
